@@ -6,7 +6,7 @@ Hi, there! This is a summary of  **Expressive & Conversational speech synthesis*
 
 If you have interest in our program, welcome to star⭐ or give some advice👏 (Pull Requests/Email📧 me)!
 
-Latest update: 12, Jan, 2025
+Latest update: 13, Jan, 2025
 
 ## Expressive speech synthesis
 
@@ -50,15 +50,15 @@ Latest update: 12, Jan, 2025
 | Text-aware and Context-aware Expressive Audiobook Speech Synthesis | 9 June, 2024       | INTERSPEECH2024                                              |
 | Boosting Diffusion Model for Spectrogram Up-sampling in Text-to-speech: An Empirical Study | 7 June, 2024       | ARXIV                                                        |
 | Style Mixture of Experts for Expressive Text-To-Speech Synthesis | 5 June, 2024       | NeurIPS 2024 Workshop                                        |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
+| RSET: Remapping-based Sorting Method for Emotion Transfer Speech Synthesis | 27 May, 2024       | 8th APWeb-WAIM International Joint Conference on Web and Big Data |
+| Expressivity and Speech Synthesis                            | 30 April, 2024     | ARXIV                                                        |
+| MM-TTS: A Unified Framework for Multimodal, Prompt-Induced Emotional Text-to-Speech Synthesis | 28 April, 2024     | ARXIV                                                        |
+| Llama-VITS: Enhancing TTS Synthesis with Semantic Awareness  | 17 April, 2024     | LREC-COLING 2024                                             |
+| Fine-Grained Quantitative Emotion Editing for Speech Generation | 4 March, 2024      | IEEE APSIPA ASC 2024                                         |
+| Expressive Acoustic Guitar Sound Synthesis with an Instrument-Specific Input Representation and Diffusion Outpainting | 24 January, 2024   | ICASSP 2024                                                  |
+| StyleSpeech: Self-supervised Style Enhancing with VQ-VAE-based Pre-training for Expressive Audiobook Speech Synthesis | 19 December, 2023  | ICASSP 2024                                                  |
+| Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling | 19 December, 2023  | AAAI'2024                                                    |
+| MM-TTS: Multi-modal Prompt based Style Transfer for Expressive Text-to-Speech Synthesis | 17 December, 2023  | AAAI2024                                                     |
+| SECap: Speech Emotion Captioning with Large Language Model   | 23 December, 2023  | AAAI 2024                                                    |
+| FaceTalk: Audio-Driven Motion Diffusion for Neural Parametric Head Models | 13 December, 2023  | CVPR2024                                                     |
 
