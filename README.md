@@ -6,12 +6,14 @@ Hi, there! This is a summary of  **Expressive speech synthesis** papers! It may 
 
 If you have interest in our program, welcome to star⭐ or give some advice👏 (Pull Requests/Email📧 me)!
 
-Latest update: 13, Jan, 2025
+Latest update: 15, Jan, 2025
 
 ## Expressive speech synthesis
 
-| name                                                         | time               | conference/journal                                           |
+| Title                                                        | Date               | Venue                                                        |
 | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ |
+| Retrieval-Augmented Dialogue Knowledge Aggregation for Expressive Conversational Speech Synthesis | 11 January, 2025   | Information Fusion 2025                                      |
+| PROEMO: Prompt-Driven Text-to-Speech Synthesis Based on Emotion and Intensity Control | 10 January, 2025   | ARXIV                                                        |
 | DrawSpeech: Expressive Speech Synthesis Using Prosodic Sketches as Control Conditions | 7 January, 2025    | ICASSP25                                                     |
 | FaceSpeak: Expressive and High-Quality Speech Synthesis from Human Portraits of Different Styles | 1 January, 2025    | ARXIV                                                        |
 | Intra- and Inter-modal Context Interaction Modeling for Conversational Speech Synthesis | 24 December, 2024  | ICASSP 2025                                                  |
