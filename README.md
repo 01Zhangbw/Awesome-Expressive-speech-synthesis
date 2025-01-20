@@ -6,12 +6,13 @@ Hi, there! This is a summary of  **Expressive speech synthesis** papers! It may 
 
 If you have interest in our program, welcome to star⭐ or give some advice👏 (Pull Requests/Email📧 me)!
 
-Latest update: 16, Jan, 2025
+Latest update: 20, Jan, 2025
 
 ## Expressive speech synthesis
 
 | Title                                                        | Date               | Venue                                                        |
 | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ |
+| Towards An Integrated Approach for Expressive Piano Performance Synthesis from Music Scores | 17 January, 2025   | ICASSP 2025                                                  |
 | Speech Synthesis along Perceptual Voice Quality Dimensions   | 15 January, 2025   | ICASSP 2025                                                  |
 | Retrieval-Augmented Dialogue Knowledge Aggregation for Expressive Conversational Speech Synthesis | 11 January, 2025   | Information Fusion 2025                                      |
 | PROEMO: Prompt-Driven Text-to-Speech Synthesis Based on Emotion and Intensity Control | 10 January, 2025   | ARXIV                                                        |
