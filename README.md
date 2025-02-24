@@ -2,16 +2,24 @@
 
 ## To Start
 
-Hi, there! This is a summary of  **Expressive speech synthesis** papers! It may include some papers on song/audio generation.
+Hi there! 
 
-If you have interest in our program, welcome to star⭐ or give some advice👏 (Pull Requests/Email📧 me)!
+This is a summary of  **Expressive speech synthesis** papers! It can include some papers on song/audio generation. 
 
-Latest update: 20, Jan, 2025
+If you think this program is useful, welcome to star⭐. If you want to add some, don't hesitate to PR👆 or email📧 me(zhangbw0102@gmail.com)
+
+Latest update: 24, February, 2025
 
 ## Expressive speech synthesis
 
 | Title                                                        | Date               | Venue                                                        |
 | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ |
+| AV-Flow: Transforming Text to Audio-Visual Human-like Interactions | 18 February, 2025  | ARXIV                                                        |
+| RenderBox: Expressive Performance Rendering with Text Control | 11 February, 2025  | ARXIV                                                        |
+| Gender Bias in Instruction-Guided Speech Synthesis Models    | 8 February, 2025   | NAACL 2025 Findings                                          |
+| Enhancing Expressive Voice Conversion with Discrete Pitch-Conditioned Flow Matching Model | 8 February, 2025   | ICASSP2025                                                   |
+| Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis | 6 February, 2025   | ARXIV                                                        |
+| EmoTalkingGaussian: Continuous Emotion-conditioned Talking Head Synthesis | 1 February, 2025   | ARXIV                                                        |
 | Towards An Integrated Approach for Expressive Piano Performance Synthesis from Music Scores | 17 January, 2025   | ICASSP 2025                                                  |
 | Speech Synthesis along Perceptual Voice Quality Dimensions   | 15 January, 2025   | ICASSP 2025                                                  |
 | Retrieval-Augmented Dialogue Knowledge Aggregation for Expressive Conversational Speech Synthesis | 11 January, 2025   | Information Fusion 2025                                      |
@@ -65,53 +73,7 @@ Latest update: 20, Jan, 2025
 | MM-TTS: Multi-modal Prompt based Style Transfer for Expressive Text-to-Speech Synthesis | 17 December, 2023  | AAAI2024                                                     |
 | SECap: Speech Emotion Captioning with Large Language Model   | 23 December, 2023  | AAAI 2024                                                    |
 | FaceTalk: Audio-Driven Motion Diffusion for Neural Parametric Head Models | 13 December, 2023  | CVPR2024                                                     |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
-|                                                              |                    |                                                              |
 
+## License
+
+MIT
