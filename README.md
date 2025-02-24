@@ -8,7 +8,7 @@ This is a summary of  **Expressive speech synthesis** papers! It can include som
 
 If you think this program is useful, welcome to star⭐. If you want to add some, don't hesitate to PR👆 or email📧 me(zhangbw0102@gmail.com)
 
-Latest update: 24, February, 2025
+🔥 Latest update: 24, February, 2025
 
 ## Expressive speech synthesis
 
