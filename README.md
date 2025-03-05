@@ -8,12 +8,13 @@ This is a summary of  **Expressive speech synthesis** papers! It can include som
 
 If you think this program is useful, welcome to star⭐. If you want to add some, don't hesitate to PR👆 or email📧 me(zhangbw0102@gmail.com)
 
-🔥 Latest update: 1, March, 2025
+🔥 Latest update: 5, March, 2025
 
 ## Expressive speech synthesis
 
 | Title                                                        | Date               | Venue                                                        |
 | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ |
+| PodAgent: A Comprehensive Framework for Podcast Generation   | 1 March, 2025      | ARXIV                                                        |
 | DiffCSS: Diverse and Expressive Conversational Speech Synthesis with Diffusion Models | 27 February, 2025  | ICASSP2025                                                   |
 | Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis | 26 February, 2025  | ARXIV                                                        |
 | AV-Flow: Transforming Text to Audio-Visual Human-like Interactions | 18 February, 2025  | ARXIV                                                        |
