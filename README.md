@@ -4,7 +4,7 @@ Hi there!
 
 This is a summary of  **Expressive speech synthesis** papers! 👏
 
-It can include some papers on song/audio generation. If you think this program is useful, welcome to star⭐. If you want to add some, don't hesitate to PR👆 or email📧 me(zhangbw0102@gmail.com)
+It can include some papers on speech/audio/music generation. If you think this program is useful, welcome to star⭐. If you want to add some, don't hesitate to PR👆 or email📧 me(zhangbw0102@gmail.com)
 
 🔥 Latest update: 19 March, 2025
 
