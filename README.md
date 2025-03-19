@@ -1,19 +1,25 @@
 # Awesome Expressive speech synthesis
 
-## To Start
-
 Hi there! 
 
-This is a summary of  **Expressive speech synthesis** papers! It can include some papers on song/audio generation. 
+This is a summary of  **Expressive speech synthesis** papers! 👏
 
-If you think this program is useful, welcome to star⭐. If you want to add some, don't hesitate to PR👆 or email📧 me(zhangbw0102@gmail.com)
+It can include some papers on song/audio generation. If you think this program is useful, welcome to star⭐. If you want to add some, don't hesitate to PR👆 or email📧 me(zhangbw0102@gmail.com)
 
-🔥 Latest update: 14, March, 2025
+🔥 Latest update: 19 March, 2025
+
+[Awesome Expressive speech synthesis](#awesome-expressive-speech-synthesis)
+
+* [Expressive speech synthesis](#expressive-speech-synthesis)
+* [License](#license)
+* [Citation](#Citation)
 
 ## Expressive speech synthesis
 
 | Title                                                        | Date               | Venue                                                        |
 | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ |
+| Universal Speech Token Learning via Low-Bitrate Neural Codec and Pretrained Representations | 15 March, 2025     | IEEE Journal of Selected Topics in Signal Processing(JSTSP)  |
+| Designing Neural Synthesizers for Low Latency Interaction    | 14 March, 2025     | ARXIV                                                        |
 | Cosh-DiT: Co-Speech Gesture Video Synthesis via Hybrid Audio-Visual Diffusion Transformers | 12 March, 2025     | ARXIV                                                        |
 | PodAgent: A Comprehensive Framework for Podcast Generation   | 1 March, 2025      | ARXIV                                                        |
 | DiffCSS: Diverse and Expressive Conversational Speech Synthesis with Diffusion Models | 27 February, 2025  | ICASSP2025                                                   |
@@ -80,4 +86,17 @@ If you think this program is useful, welcome to star⭐. If you want to add some
 
 ## License
 
-MIT
+This repository is released under the MIT license.
+
+## Citation
+
+If you find this repository helpful, please consider citing:
+
+```
+@misc{Zhang2025ExpressiveTTS,
+  title = {Awesome-Expressive-speech-synthesis},
+  author = {Bowen Zhang},
+  year = {2025},
+  howpublished = {\url{https://github.com/01Zhangbw/Awesome-Expressive-speech-synthesis}},
+}
+```
