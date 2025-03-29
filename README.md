@@ -18,6 +18,8 @@ It can include some papers on speech/audio/music generation. If you think this p
 
 | Title                                                        | Date               | Venue                                                        |
 | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ |
+| DIDiffGes: Decoupled Semi-Implicit Diffusion Models for Real-time Gesture Generation from Speech | 21 March, 2025     | AAAI 2025                                                    |
+| From Faces to Voices: Learning Hierarchical Representations for High-quality Video-to-Speech | 21 March, 2025     | CVPR 2025                                                    |
 | Universal Speech Token Learning via Low-Bitrate Neural Codec and Pretrained Representations | 15 March, 2025     | IEEE Journal of Selected Topics in Signal Processing(JSTSP)  |
 | Designing Neural Synthesizers for Low Latency Interaction    | 14 March, 2025     | ARXIV                                                        |
 | Cosh-DiT: Co-Speech Gesture Video Synthesis via Hybrid Audio-Visual Diffusion Transformers | 12 March, 2025     | ARXIV                                                        |
