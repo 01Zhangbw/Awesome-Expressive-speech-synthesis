@@ -6,7 +6,7 @@ This is a summary of  **Expressive speech synthesis** papers! 👏
 
 It can include some papers on speech/audio/music generation. If you think this program is useful, welcome to star⭐. If you want to add some, don't hesitate to PR👆 or email📧 me(zhangbw0102@gmail.com)
 
-🔥 Latest update: 19 March, 2025
+🔥 Latest update: 23 April, 2025
 
 [Awesome Expressive speech synthesis](#awesome-expressive-speech-synthesis)
 
@@ -18,6 +18,13 @@ It can include some papers on speech/audio/music generation. If you think this p
 
 | Title                                                        | Date               | Venue                                                        |
 | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ |
+| A Multi-Agent Framework for Automated Qinqiang Opera Script Generation Using Large Language Models | 21 April, 2025     |                                                              |
+| DialogueAgents: A Hybrid Agent-Based Speech Synthesis Framework for Multi-Party Dialogue | 20 April, 2025     | ICME 2025                                                    |
+| Supervising 3D Talking Head Avatars with Analysis-by-Audio-Synthesis | 17 April, 2025     |                                                              |
+| Dopamine Audiobook: A Training-free MLLM Agent for Emotional and Human-like Audiobook Generation | 15 April, 2025     |                                                              |
+| AutoStyle-TTS: Retrieval-Augmented Generation based Automatic Style Matching Text-to-Speech Synthesis | 14 April, 2025     | ICME 2025                                                    |
+| AMNet: An Acoustic Model Network for Enhanced Mandarin Speech Synthesis | 12 April, 2025     |                                                              |
+| VoiceCraft-Dub: Automated Video Dubbing with Neural Codec Language Models | 3 April, 2025      |                                                              |
 | DIDiffGes: Decoupled Semi-Implicit Diffusion Models for Real-time Gesture Generation from Speech | 21 March, 2025     | AAAI 2025                                                    |
 | From Faces to Voices: Learning Hierarchical Representations for High-quality Video-to-Speech | 21 March, 2025     | CVPR 2025                                                    |
 | Universal Speech Token Learning via Low-Bitrate Neural Codec and Pretrained Representations | 15 March, 2025     | IEEE Journal of Selected Topics in Signal Processing(JSTSP)  |
